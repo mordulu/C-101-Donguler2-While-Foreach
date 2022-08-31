@@ -1,0 +1,15 @@
+C:\Users\ibrahimmelih.ordulu\Desktop\Yazılım\Pratikler\Donguler2While Foreach\bin\Debug\net6.0\Donguler2While Foreach.exe
+C:\Users\ibrahimmelih.ordulu\Desktop\Yazılım\Pratikler\Donguler2While Foreach\bin\Debug\net6.0\Donguler2While Foreach.deps.json
+C:\Users\ibrahimmelih.ordulu\Desktop\Yazılım\Pratikler\Donguler2While Foreach\bin\Debug\net6.0\Donguler2While Foreach.runtimeconfig.json
+C:\Users\ibrahimmelih.ordulu\Desktop\Yazılım\Pratikler\Donguler2While Foreach\bin\Debug\net6.0\Donguler2While Foreach.dll
+C:\Users\ibrahimmelih.ordulu\Desktop\Yazılım\Pratikler\Donguler2While Foreach\bin\Debug\net6.0\Donguler2While Foreach.pdb
+C:\Users\ibrahimmelih.ordulu\Desktop\Yazılım\Pratikler\Donguler2While Foreach\obj\Debug\net6.0\Donguler2While Foreach.csproj.AssemblyReference.cache
+C:\Users\ibrahimmelih.ordulu\Desktop\Yazılım\Pratikler\Donguler2While Foreach\obj\Debug\net6.0\Donguler2While Foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrahimmelih.ordulu\Desktop\Yazılım\Pratikler\Donguler2While Foreach\obj\Debug\net6.0\Donguler2While Foreach.AssemblyInfoInputs.cache
+C:\Users\ibrahimmelih.ordulu\Desktop\Yazılım\Pratikler\Donguler2While Foreach\obj\Debug\net6.0\Donguler2While Foreach.AssemblyInfo.cs
+C:\Users\ibrahimmelih.ordulu\Desktop\Yazılım\Pratikler\Donguler2While Foreach\obj\Debug\net6.0\Donguler2While Foreach.csproj.CoreCompileInputs.cache
+C:\Users\ibrahimmelih.ordulu\Desktop\Yazılım\Pratikler\Donguler2While Foreach\obj\Debug\net6.0\Donguler2While Foreach.dll
+C:\Users\ibrahimmelih.ordulu\Desktop\Yazılım\Pratikler\Donguler2While Foreach\obj\Debug\net6.0\refint\Donguler2While Foreach.dll
+C:\Users\ibrahimmelih.ordulu\Desktop\Yazılım\Pratikler\Donguler2While Foreach\obj\Debug\net6.0\Donguler2While Foreach.pdb
+C:\Users\ibrahimmelih.ordulu\Desktop\Yazılım\Pratikler\Donguler2While Foreach\obj\Debug\net6.0\Donguler2While Foreach.genruntimeconfig.cache
+C:\Users\ibrahimmelih.ordulu\Desktop\Yazılım\Pratikler\Donguler2While Foreach\obj\Debug\net6.0\ref\Donguler2While Foreach.dll
